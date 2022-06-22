@@ -22,6 +22,7 @@ descr = ["Приключенческая ролевая игра с открыт
 </script>
 ```
 ***3. The general style of the arrows is set by class="_arr", the direction is indicated by id="_pl" - left arrow and id="_pr" - right arrow***
+
 ***4. The lower controllers are set as follows:***
 ```
 <div class='_shiv _flx'>
