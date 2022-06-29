@@ -2,7 +2,7 @@
 This is horizontal scrolling for a website in pure javascript, without using third-party plugins. In this project, there is a change not of images, but of the background.
 Scrolling is done automatically and supports manual change, using the side arrows or controllers at the bottom.
 
-#### How to use:
+## How to use:
 
 ***1. Connect the decolation.js before closing the tag <body>***
 ```
@@ -38,8 +38,33 @@ The number of blocks is unlimited, but must be 1 more than in the ***imgs[]*** a
 ***5. For a better idea of how controllers, arrows, and other elements can be positioned, see index.htm***
 
 
-#### Preview
+## Preview
 https://user-images.githubusercontent.com/22084187/174544947-49367ab3-5555-4e17-812e-c8e14ecc5493.mp4
+
+## License
+```
+The MIT License (MIT)
+
+Copyright (c) 2015 Arkadiusz Sygulski <arkadiusz@sygulski.pl>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+```
 
 
 
