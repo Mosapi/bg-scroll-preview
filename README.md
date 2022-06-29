@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/22084187/174544947-49367ab3-5555-4e17-
 ```
 The MIT License (MIT)
 
-Copyright (c) 2015 Arkadiusz Sygulski <arkadiusz@sygulski.pl>
+Copyright (c) 2015 shahral shahral@protonmail.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
