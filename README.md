@@ -35,7 +35,7 @@ descr = ["Приключенческая ролевая игра с открыт
 ```
 The number of blocks is unlimited, but must be 1 more than in the ***imgs[]*** array. The ***_acti*** class points to the initially active controller.
 
-***5. For a better idea of how controllers, arrows, and other elements can be positioned, see index.htm***
+***5. For a better idea of how controllers, arrows, and other elements can be positioned, see example***
 
 
 ## Preview
