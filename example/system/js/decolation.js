@@ -2,7 +2,8 @@ document.addEventListener("DOMContentLoaded", function(event) {
 	
 	defaultban = "85.jpg"; //default banner
 	defaulttit = "FINAL FANTASY VII REMAKE"; //default titul
-	defauldesc = "Cloud Strife, бывший оперативник SOLDIER, отправляется в питаемый энергией мако город Midgar. Мир вечной классики FINAL FANTASY VII возрождается, получив новейшую графику, новую боевую систему и дополнительные приключения с Yuffie Kisaragi"; //default description
+	//default description
+	defauldesc = "Cloud Strife, бывший оперативник SOLDIER, отправляется в питаемый энергией мако город Midgar. Мир вечной классики FINAL FANTASY VII возрождается, получив новейшую графику, новую боевую систему и дополнительные приключения с Yuffie Kisaragi"; 
 	defaulpage = "FFVIIR"; //default page
 	path = "content/afon/"; //path to content
 	m_delay = imgs.length; //3
