@@ -3,14 +3,20 @@ This is horizontal scrolling for a website in pure javascript, without using thi
 Scrolling is done automatically and supports manual change, using the side arrows or controllers at the bottom.
 
 ## How to use:
+***1. Place the Bg horizon scrolling in the place you need***
+```
+<div id="gkHeader" class="mess">
+	<div id='zatun'></div>
+</div>
+```
 
-***1. Connect the decolation.js before closing the tag <body>***
+***2. Connect the decolation.js before closing the tag <body>***
 ```
 <script type="text/javascript" src="system/js/decolation.js"></script>
 </body>
 ```
 
-***2. The script works with data selected from the database. We specify them before connecting the script***
+***3. The script works with data selected from the database. We specify them before connecting the script***
 
 ```
 <script>
@@ -21,9 +27,9 @@ titlet = ["Cyberpunk 2077", "Nier: Automata", "Elden Ring", "Horizon Forbidden W
 descr = ["Приключенческая ролевая игра с открытым миром, рассказывающая о киберпанке-наёмнике Ви и борьбе за жизнь в мегаполисе Найт-Сити.", "Nier: Automata (NieR new project) — это непрямой сиквел NIER, действие которого разворачивается на порабощенной боевыми роботами Земле.", "НОВЫЙ ФЭНТЕЗИЙНЫЙ РОЛЕВОЙ БОЕВИК. Восстань, погасшая душа! Междуземье ждёт своего повелителя. Пусть благодать приведёт тебя к Кольцу Элден.", "Отправьтесь вместе с Элой в путешествие по величественному, но опасному миру Запретного запада, который скрывает новые загадочные угрозы."];
 </script>
 ```
-***3. The general style of the arrows is set by class="_arr", the direction is indicated by id="_pl" - left arrow and id="_pr" - right arrow***
+***4. The general style of the arrows is set by class="_arr", the direction is indicated by id="_pl" - left arrow and id="_pr" - right arrow***
 
-***4. The lower controllers are set as follows:***
+***5. The lower controllers are set as follows:***
 ```
 <div class='_shiv _flx'>
 	<div id='sl0' class='_shblo _acti'></div>
@@ -35,7 +41,7 @@ descr = ["Приключенческая ролевая игра с открыт
 ```
 The number of blocks is unlimited, but must be 1 more than in the ***imgs[]*** array. The ***_acti*** class points to the initially active controller.
 
-***5. For a better idea of how controllers, arrows, and other elements can be positioned, see example***
+***6. For a better idea of how controllers, arrows, and other elements can be positioned, see example***
 
 
 ## Preview
