@@ -1,5 +1,5 @@
 # Bg-horizon-scrolling
-This is horizontal scrolling for a website in pure javascript, without using third-party plugins. In this project, there is a change not of images, but of the background.
+This is horizontal scrolling for a website in vanilla javascript, without using third-party plugins. In this project, there is a change not of images, but of the background.
 Scrolling is done automatically and supports manual change, using the side arrows or controllers at the bottom.
 
 ## How to use:
